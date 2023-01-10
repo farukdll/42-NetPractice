@@ -52,19 +52,22 @@ Only IPv4 addresses are used in NetPractice.
 ```
 ### Public IP address ranges
 ```
-`0 (binary: 00000000)`<br>
-`1 (binary: 00000001)`<br>
-`2 (binary: 00000010)`<br>
-`3 (binary: 00000011)`<br>
-`.
-`.
-`.
-`252 (binary: 11111100)`<br>
-`253 (binary: 11111101)`<br>
-`254 (binary: 11111110)`<br>
-`255 (binary: 11111111)
+ - 1 IP address can have up to 255 values.
+ - Returns to 0 after 255.
+ 
+ `0 (binary: 00000000)`<br>
+ `1 (binary: 00000001)`<br>
+ `2 (binary: 00000010)`<br>
+ `3 (binary: 00000011)`<br>
+ `.
+ `.
+ `.
+ `252 (binary: 11111100)`<br>
+ `253 (binary: 11111101)`<br>
+ `254 (binary: 11111110)`<br>
+ `255 (binary: 11111111)
 
-
+ - 
 
 
 
