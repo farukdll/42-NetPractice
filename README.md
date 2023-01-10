@@ -132,13 +132,13 @@ DECIMAL | 0 - 127
         IP address | 01101000.11000110.11110001.01111101
         Mask       | 11111111.11111111.11111111.10000000
 ```
-### Masking example
+### Masking-example
 </br>
 <p align="center">
   <img width="389" alt="Mask" src="https://user-images.githubusercontent.com/97880185/211624489-1083a254-6f38-4aaa-866c-75d2d7092de6.png">
 </p>
 
-### Connection switch
+### Connection-switch
 ```
 - A switch connects multiple devices together in a single network. 
   Unlike a router, the switch does not have any interfaces since it only 
@@ -163,7 +163,7 @@ DECIMAL | 0 - 127
   not overlap with the range of its other interfaces. An overlap in the 
   IP address range would imply that the interfaces are on the same network.
 ```
-### Router example
+### Router-example
 </br>
 <p align="center">
   <img width="400" alt="Router" src="https://user-images.githubusercontent.com/97880185/211625628-45dff831-f562-4934-b6ab-701dde3d5263.png">
@@ -233,10 +233,13 @@ DECIMAL | 0 - 127
   <img src="https://github.com/"
   <br>
   <br>
-  Here we have two separate networks, each consisting of two computers.<br>
-  In order to make it work, the two computers need to be part of the same network.<br>
-  Because the mask of A and B is `255.255.255.0` the possible IP-adresses of A1 are <br>`104.99.23.1 - 104.99.23.254`.<br>
-  For C and D the mask is `255.255.0.0`, so the usable IP's are `211.191.0.1 - 211.191.255.254`
+  This is our first time running into a router, since the router does not connect to anything else,<br>
+  there is no routing table, that needs to be worked with.<br>
+  A has a fixed IP, so this will define the IP of our network.<br>
+  You can freely choose a fitting mask for the network, but the subnet has to have at least 3 usable IP-addresses, <br> 
+  so choosing `255.255.255.240`/`/28` will create a subnet of 14 usable addresses.<br>
+  The fixed IP of A is `67.52.110.132`.<br>
+  This results in a available IP-range of `67.52.110.129 - 67.52.110.142`.
   
 </details>
 
@@ -247,10 +250,13 @@ DECIMAL | 0 - 127
   <img src="https://github.com/"
   <br>
   <br>
-  Here we have two separate networks, each consisting of two computers.<br>
-  In order to make it work, the two computers need to be part of the same network.<br>
-  Because the mask of A and B is `255.255.255.0` the possible IP-adresses of A1 are <br>`104.99.23.1 - 104.99.23.254`.<br>
-  For C and D the mask is `255.255.0.0`, so the usable IP's are `211.191.0.1 - 211.191.255.254`
+  Here we first come by the mighty routing table.<br>
+  R1 has a fixed IP of `80.103.79.126` and a fixed mask of `255.255.255.128`, <br>
+  which results in a mask of `255.255.255.128` and an IP-range of `80.103.79.1 - 80.103.79.125` for A1.
+  
+  
+  Now to conquer the routing table of A it is as easy as setting the **destination** as `default` <br> 
+  or `0.0.0.0/0` and the destination has to be the IP of the directly connected router R1, `80.103.79.126`.<br>
   
 </details>
 
@@ -261,14 +267,31 @@ DECIMAL | 0 - 127
   <img src="https://github.com/"
   <br>
   <br>
-  Here we have two separate networks, each consisting of two computers.<br>
-  In order to make it work, the two computers need to be part of the same network.<br>
-  Because the mask of A and B is `255.255.255.0` the possible IP-adresses of A1 are <br>`104.99.23.1 - 104.99.23.254`.<br>
-  For C and D the mask is `255.255.0.0`, so the usable IP's are `211.191.0.1 - 211.191.255.254`
+  This level introduces us to the Internet.<br>
+  We again start with looking at the fixed IP-addresses and masks.
+
+
+  IP of A1 is fixed and mask of R1, which A1 is connected to through the switch, is fixed as well.<br>
+  So we need to match those in order for them to be in the same network.<br>
+  Mask for this network will be `255.255.255.128` which then will result in 2 subnets.<br>
+  Combined with the fixed IP of `29.65.6.227` one subnet will be from `29.65.6.1` to `29.65.6.126` and <br>
+  the other <br>`29.65.6.129 - 29.65.6.254`.<br>
+  In order for R1 and A1 to be in the same network, the possible address-range of R1 will be `29.65.6.129 - 29.65.6.254`.
+  
+  Now set the routing table of A in order to reach R1.
+
+
+  The **destination** of the routing table of the internet needs to be set to the network address <br> 
+  of the R1-A1 network, which in this case is `29.65.6.128`, combined with the CIDR of the network, which is `/25`.<br>
+  This results in a **next hop** of `29.65.6.128/25`.
+
+
+  **Destination** of the routing table of the router can be set to `default` or `0.0.0.0/0`.
   
 </details>
 
 ---
+<!--
 <details>
   <summary>Level 7</summary>
   <br>
@@ -325,7 +348,7 @@ DECIMAL | 0 - 127
 </details>
 
 ---
-
+-->
 
 
 
