@@ -130,7 +130,7 @@ DECIMAL | 0 - 127
 
 </br>
 <p align="center">
-  <kbd><img src="https://github.com/farukdll/42-NetPractice/blob/main/img/mask1.png?raw=true" height=250 alt="mask"></kbd>
+  <img width="389" alt="389-322" src="https://user-images.githubusercontent.com/97880185/211621401-31af7459-4aa3-48dd-85bb-c383c58a5f15.png">
 </p>
 </br>
 
