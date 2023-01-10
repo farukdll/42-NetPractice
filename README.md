@@ -81,8 +81,8 @@ BINARY  | 0000000 - 1111111
 DECIMAL | 0 - 127
 
 - For example
-                IP address | 104.198.241.125
-                IP address | 01101000.11000110.11110001.01111101
+             IP address | 104.198.241.125
+             IP address | 01101000.11000110.11110001.01111101
 
 - Public IP addresses cannot take values from private IP addresses, 
   they only take values different from private IP address values.
