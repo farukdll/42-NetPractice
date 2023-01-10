@@ -163,6 +163,11 @@ DECIMAL | 0 - 127
   not overlap with the range of its other interfaces. An overlap in the 
   IP address range would imply that the interfaces are on the same network.
 ```
+### Router example
+</br>
+<p align="center">
+  <img width="380" alt="Router" src="https://user-images.githubusercontent.com/97880185/211625628-45dff831-f562-4934-b6ab-701dde3d5263.png">
+</p>
 <!--
 ### This interface should open in your web browser; <br />
 <img width="800" alt="web" src="https://user-images.githubusercontent.com/97880185/211425347-0cd650b3-ed4e-4a09-9e16-0b27d0b73cbf.png">
