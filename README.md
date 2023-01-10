@@ -7,15 +7,15 @@ Only IPv4 addresses are used in NetPractice.
 <!--
 ### What are TCP/IP addresses and how do they work?
 ```     
- - TCP/IP, in full Transmission Control Protocol/Internet Protocol,
-   standard Internet communications protocols that allow digital computers 
-   to communicate over long distances.
+- TCP/IP, in full Transmission Control Protocol/Internet Protocol,
+  standard Internet communications protocols that allow digital computers 
+  to communicate over long distances.
         
- - TCP guarantees the integrity of the data being communicated over a network.
-   Before it transmits data, TCP establishes a connection between a source and its destination, 
-   which remains active until communication begins. 
-   It then breaks large amounts of data into smaller packets,
-   while ensuring end-to-end delivery without loss of any data.
+- TCP guarantees the integrity of the data being communicated over a network.
+  Before it transmits data, TCP establishes a connection between a source and 
+  its destination, which remains active until communication begins. 
+  It then breaks large amounts of data into smaller packets,
+  while ensuring end-to-end delivery without loss of any data.
         
 ```
 -->
@@ -23,53 +23,61 @@ Only IPv4 addresses are used in NetPractice.
 <br />
 ### What are TCP/IP addresses and how do they work?
 ```     
-  - TCP/IP, in full Transmission Control Protocol/Internet Protocol,
-    standard Internet communications protocols that allow digital computers to communicate over long distances. 
+- TCP/IP, in full Transmission Control Protocol/Internet Protocol,
+  standard Internet communications protocols that allow digital computers to 
+  communicate over long distances. 
 ```
 ### What is Transmission Control Protocol
 ```
-  - TCP guarantees the integrity of the data being communicated over a network.
-    Before it transmits data, TCP establishes a connection between a source and its destination,
-    which remains active until communication begins. It then breaks large amounts of data into smaller packets,
-    while ensuring end-to-end delivery without loss of any data.
+- TCP guarantees the integrity of the data being communicated over a network.
+  Before it transmits data, 
+  TCP establishes a connection between a source and its destination,
+  which remains active until communication begins. 
+  It then breaks large amounts of data into smaller packets,
+  while ensuring end-to-end delivery without loss of any data.
     
-  - TCP (Transmission Control Protocol) is a protocol that allows communication between computers 
-    to be carried out in small packets and lossless. In fact,
-    the most important feature of the TCP (Transmission Control Protocol) protocol is that it
-    performs the authentication and execution of the data when sending or receiving data from the other party.
-    The TCP protocol was written to hide the losses that occur in advanced computer networks.
+- TCP (Transmission Control Protocol) is a protocol that allows communication 
+  between computers to be carried out in small packets and lossless. In fact,
+  the most important feature of the TCP (Transmission Control Protocol) 
+  protocol is that it performs the authentication and execution of the data 
+  when sending or receiving data from the other party. 
+  The TCP protocol was written to hide the losses that occur in 
+  advanced computer networks.
 ```
 ### What is IP address
 ```
-  - IP addresses are the addresses required to connect to the internet.
-    It is not possible for your device using the internet without an IP address to connect to the internet.
+- IP addresses are the addresses required to connect to the internet.
+    It is not possible for your device using the internet without an 
+    IP address to connect to the internet.
     Thanks to IP addresses, computers find each other and perform data flow.
     Public IP and private IP addresses are used for this.
 ```
 ### What is a Public IP Address?
 ```
-  - The IP address that allows two computers to recognize each other is called a public IP address.
-    A public IP address is usually used to access the Internet. With a public IP address,
-    you can access your computer or other electronic devices remotely.
+- The IP address that allows two computers to recognize each other is 
+  called a public IP address.
+  A public IP address is usually used to access the Internet. 
+  With a public IP address,
+  you can access your computer or other electronic devices remotely.
 ```
 ### Public IP address ranges
 ```
- - 1 IP address can have up to 255 values.
- - Returns to 0 after 255.
- 
- `0 (binary: 00000000)`<br>
- `1 (binary: 00000001)`<br>
- `2 (binary: 00000010)`<br>
- `3 (binary: 00000011)`<br>
- `.
- `.
- `.
- `252 (binary: 11111100)`<br>
- `253 (binary: 11111101)`<br>
- `254 (binary: 11111110)`<br>
- `255 (binary: 11111111)
+- 1 IP address can have up to 255 values.
+- Returns to 0 after 255.
 
- - 
+`0 (binary: 00000000)`<br>
+`1 (binary: 00000001)`<br>
+`2 (binary: 00000010)`<br>
+`3 (binary: 00000011)`<br>
+`.
+`.
+`.
+`252 (binary: 11111100)`<br>
+`253 (binary: 11111101)`<br>
+`254 (binary: 11111110)`<br>
+`255 (binary: 11111111)
+
+- 
 
 
 
@@ -79,14 +87,17 @@ Only IPv4 addresses are used in NetPractice.
 ```
 ### What is a Private IP Address?
 ```
-  - The IP address that several devices create when they are connected to each other wired or wirelessly is called a private IP address.
-    Devices on this network are not assigned the same IP address.
-    Each is assigned a different IP address and these IP addresses cannot be repeated.
-    Computers on different networks can use the same addresses.
-    It's okay if they use the same address since they're on different networks.
-    There is also an incentive to use private IP addresses to save data.
-    With private IP addresses, it is not possible to route or stream data from the internet.
-    The assignment of these addresses is also not controlled by anyone.
+- The IP address that several devices create when they are connected to 
+  each other wired or wirelessly is called a private IP address.
+  Devices on this network are not assigned the same IP address.
+  Each is assigned a different IP address and these IP addresses 
+  cannot be repeated.
+  Computers on different networks can use the same addresses.
+  It's okay if they use the same address since they're on different networks.
+  There is also an incentive to use private IP addresses to save data.
+  With private IP addresses, 
+  it is not possible to route or stream data from the internet.
+  The assignment of these addresses is also not controlled by anyone.
 ```
 ### Private IP ranges
 `10.0.0.0    – 10.255.255.255`<br>
