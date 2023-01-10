@@ -57,7 +57,6 @@ Only IPv4 addresses are used in NetPractice.
 <p align="center">
   <img width="388" alt="388-321" src="https://user-images.githubusercontent.com/97880185/211622199-e08ab318-5964-4db3-af73-0df9475868af.png">
 </p>
-</br>
 
 ### What is a Public IP Address?
 ```
@@ -139,7 +138,6 @@ DECIMAL | 0 - 127
   <img width="389" alt="Mask" src="https://user-images.githubusercontent.com/97880185/211624489-1083a254-6f38-4aaa-866c-75d2d7092de6.png">
 </p>
 
-
 ### Connection switch
 ```
 - A switch connects multiple devices together in a single network. 
@@ -148,12 +146,11 @@ DECIMAL | 0 - 127
   and cannot talk directly to a network outside of its own.
 ```
 
-### Masking example
+### Key
 </br>
 <p align="center">
   <img width="389" alt="key" src="https://user-images.githubusercontent.com/97880185/211623839-3220c7ec-70da-49c7-a7c8-4ff54d877b6d.png">
 </p>
-</br>
 
 <!--
 ### This interface should open in your web browser; <br />
