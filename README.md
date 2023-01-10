@@ -102,9 +102,9 @@ DECIMAL | 0 - 127
   The assignment of these addresses is also not controlled by anyone.
 ```
 ### Private IP address ranges
-`10.0.0.0    – 10.255.255.255`<br>
-`172.16.0.0  – 172.31.255.255`<br>
-`192.168.0.0 – 192.168.255.255`<br>
+`10.0.0.0    – 10.255.255.255 `<br>
+`172.16.0.0  – 172.31.255.255 `<br>
+`192.168.0.0 – 192.168.255.255 `<br>
 `127.0.0.0   – 127.255.255.255`
 ### What is IP masking
 ```
