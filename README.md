@@ -104,12 +104,35 @@ DECIMAL | 0 - 127
 ### Private IP address ranges
 `10.0.0.0    – 10.255.255.255 `<br>
 `172.16.0.0  – 172.31.255.255 `<br>
-`192.168.0.0 – 192.168.255.255 `<br>
+`192.168.0.0 – 192.168.255.255`<br>
 `127.0.0.0   – 127.255.255.255`
 ### What is IP masking
 ```
-
+- In TCP/IP, two devices can tell if they are on the same network by looking 
+  at the first few digits of each other's IP addresses. 
+  This step is called the IP mask or Subnet mask (IP mask or Subnet Mask). 
+  For example, if the IP mask is 255.255.255.0, two machines 
+  with the same first three digits (ie first 24 bits) are on the same network. 
+  In this case, 192.168.0.1 and 192.168.0.2 are on the same network, and 
+  192.168.1.1 is on another network.
+  
+  
+***
+- DECIMAL
+        IP address | 104.198.241.125
+        Mask       | 255.255.255.128
+  
+- BINARY
+        IP address | 01101000.11000110.11110001.01111101
+        Mask       | 11111111.11111111.11111111.10000000
 ```
+### Subnet Mask
+
+</br>
+<p align="center">
+  <kbd><img src="https://github.com/farukdll/42-NetPractice/blob/main/img/mask1.png?raw=true" height=250 alt="mask"></kbd>
+</p>
+</br>
 
 <!--
 ### This interface should open in your web browser; <br />
