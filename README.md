@@ -52,6 +52,12 @@ Only IPv4 addresses are used in NetPractice.
   Thanks to IP addresses, computers find each other and perform data flow.
   Public IP and private IP addresses are used for this.
 ```
+### IP address
+</br>
+<p align="center">
+  <img width="388" alt="388-321" src="https://user-images.githubusercontent.com/97880185/211622199-e08ab318-5964-4db3-af73-0df9475868af.png">
+</p>
+</br>
 ### What is a Public IP Address?
 ```
 - The IP address that allows two computers to recognize each other is 
