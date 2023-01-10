@@ -126,8 +126,7 @@ DECIMAL | 0 - 127
         IP address | 01101000.11000110.11110001.01111101
         Mask       | 11111111.11111111.11111111.10000000
 ```
-### Subnet Mask
-
+### Masking example
 </br>
 <p align="center">
   <img width="389" alt="389-322" src="https://user-images.githubusercontent.com/97880185/211621401-31af7459-4aa3-48dd-85bb-c383c58a5f15.png">
