@@ -69,12 +69,12 @@ Only IPv4 addresses are used in NetPractice.
 . 1 (binary: 00000001)
 . 2 (binary: 00000010)
 . 3 (binary: 00000011)
-. .
-. .
-. .
-. 252 (binary: 11111100)`<br>
-. 253 (binary: 11111101)`<br>
-. 254 (binary: 11111110)`<br>
+. ...
+. ...
+. ...
+. 252 (binary: 11111100)
+. 253 (binary: 11111101)
+. 254 (binary: 11111110)
 . 255 (binary: 11111111)
 
 - 
