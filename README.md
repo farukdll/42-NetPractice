@@ -136,9 +136,9 @@ DECIMAL | 0 - 127
 ### Masking example
 </br>
 <p align="center">
-  <img width="389" alt="389-322" src="https://user-images.githubusercontent.com/97880185/211621401-31af7459-4aa3-48dd-85bb-c383c58a5f15.png">
+  <img width="389" alt="Mask" src="https://user-images.githubusercontent.com/97880185/211624489-1083a254-6f38-4aaa-866c-75d2d7092de6.png">
 </p>
-</br>
+
 
 ### Connection switch
 ```
