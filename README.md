@@ -82,8 +82,10 @@ Only IPv4 addresses are used in NetPractice.
 . 254 (binary: 11111110)
 . 255 (binary: 11111111)
 
-BINARY  | 0000000 - 1111111
+104.198.241.0 - 104.198.241.127
+
 DECIMAL | 0 - 127
+BINARY  | 0000000 - 1111111
 
 - For example
              IP address | 104.198.241.125
@@ -133,6 +135,61 @@ DECIMAL | 0 - 127
         
 -BINARY  | 0000000 - 1111111
 -DECIMAL | 0 - 255
+```
+### CIDR Notation (/24) (Classless Inter Domain Routing)
+```
+- The mask can also be represented with the Classless Inter-Domain Routing (CIDR). 
+  This form represents the mask as a slash "/", followed by the number of 
+  bits that serve as the network address.
+  
+  Therefore, the mask in the example above of 255.255.255.128, 
+  is equivalent to a mask of /25 using the CIDR notation, 
+  since 25 bits out of 32 bits represent the network address.
+  
+  -- Class A, B, C CIDR notation;
+
+        Class A; 255.0.0.0 /8
+        Class B; 255.255.0.0 /16
+        Class C; 255.255.255.0 /24
+        
+ 
+ Special subnet masks for class A addresses
+ 
+ Number of subnets    Number of bits       Subnet Mask      Number of hosts in each Subnet
+  0                     	1                   none                  none
+  2                   	  2                255.192.0.0     	      4,194,302
+  6                     	3                255.224.0.0    	      2,097,150
+  14                    	4                255.240.0.0     	      1,048,574
+  30                    	5                255.248.0.0     	        524,286
+  62                    	6                255.252.0.0     	        262,142
+  126                   	7                255.254.0.0     	        131,070
+  254                   	8                255.255.0.0         	     65,534
+  
+  
+  
+ Special subnet masks for class B addresses
+  
+ Number of subnets    Number of bits       Subnet Mask        Number of hosts in each Subnet
+  0                      	1                   none                    none
+  2                      	2                255.255.192.0             16,382
+  6                      	3                255. 255.224.0             8,190
+  14                    	4                255. 255.240.0             4,094
+  30                    	5                255. 255.248.0             2,046
+  62                    	6                255. 255.252.0             1,022
+  126                    	7                255. 255.254.0               510
+  254                  	  8                255. 255.255.0               254
+  
+  
+  Special subnet masks for class C addresses
+  
+  Number of subnets    Number of bits       Subnet Mask         Number of hosts in each Subnet
+   0                     	1                   none                       none      
+   1-2                  	2                255. 255. 255.192               62
+   3-6                  	3                255. 255. 255.224               30
+   7-14                	  4                255. 255. 255.240               14
+   15-30              	  5                255. 255. 255.248                6
+   31-62              	  6                255. 255. 255.252                2
+
 ```
 ### Masking-example
 </br>
