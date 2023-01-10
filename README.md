@@ -34,7 +34,8 @@ Only IPv4 addresses are used in NetPractice.
 ```
   . IP addresses are the addresses required to connect to the internet.
     It is not possible for your device using the internet without an IP address to connect to the internet.
-    Thanks to IP addresses, computers find each other and perform data flow. Public IP and private IP addresses are used for this.
+    Thanks to IP addresses, computers find each other and perform data flow.
+    Public IP and private IP addresses are used for this.
 ```
 <!--
 ### This interface should open in your web browser; <br />
