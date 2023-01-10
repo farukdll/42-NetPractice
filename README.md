@@ -58,6 +58,7 @@ Only IPv4 addresses are used in NetPractice.
   <img width="388" alt="388-321" src="https://user-images.githubusercontent.com/97880185/211622199-e08ab318-5964-4db3-af73-0df9475868af.png">
 </p>
 </br>
+
 ### What is a Public IP Address?
 ```
 - The IP address that allows two computers to recognize each other is 
