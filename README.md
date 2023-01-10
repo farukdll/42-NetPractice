@@ -157,7 +157,7 @@ BINARY  | 0000000 - 1111111
  
  Number of subnets    Number of bits       Subnet Mask      Number of hosts in each Subnet
   0                     	1                   none                  none
-  2                   	  2                255.192.0.0     	      4,194,302
+  2                       2                255.192.0.0     	      4,194,302
   6                     	3                255.224.0.0    	      2,097,150
   14                    	4                255.240.0.0     	      1,048,574
   30                    	5                255.248.0.0     	        524,286
