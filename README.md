@@ -44,6 +44,21 @@ Only IPv4 addresses are used in NetPractice.
     Thanks to IP addresses, computers find each other and perform data flow.
     Public IP and private IP addresses are used for this.
 ```
+### What is a Public IP Address?
+```
+  . The IP address that allows two computers to recognize each other is called a public IP address.
+    A public IP address is usually used to access the Internet. With a public IP address,
+    you can access your computer or other electronic devices remotely.
+```
+### Private IP ranges
+`10.0.0.0 – 10.255.255.255`<br>
+`172.16.0.0 – 172.31.255.255`<br>
+`192.168.0.0 – 192.168.255.255`<br>
+`127.0.0.0 – 127.255.255.255`
+### What is a Private IP Address?
+```
+.
+```
 <!--
 ### This interface should open in your web browser; <br />
 <img width="800" alt="web" src="https://user-images.githubusercontent.com/97880185/211425347-0cd650b3-ed4e-4a09-9e16-0b27d0b73cbf.png">
