@@ -70,10 +70,12 @@ Only IPv4 addresses are used in NetPractice.
 . 2 (binary: 00000010)
 . 3 (binary: 00000011)
 . ...
-. ```
+. ...
+  
   BINARY  | 0000000 - 1111111
   DECIMAL | 0 - 127
-  ```
+
+. ...
 . ...
 . 252 (binary: 11111100)
 . 253 (binary: 11111101)
