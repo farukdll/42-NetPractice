@@ -7,16 +7,13 @@ Only IPv4 addresses are used in NetPractice.
 <!--
 ### What are TCP/IP addresses and how do they work?
 ```     
-  . TCP/IP, in full Transmission Control Protocol/Internet Protocol,
-    standard Internet communications protocols that allow digital 
-    computers to communicate over long distances.
+ - TCP/IP, in full Transmission Control Protocol/Internet Protocol,
+   standard Internet communications protocols that allow digital computers to communicate over long distances.
         
-  . TCP guarantees the integrity of the data being communicated over a network.
-    Before it transmits data,
-    TCP establishes a connection between a source and its destination,
-    which remains active until communication begins.
-    It then breaks large amounts of data into smaller packets,
-    while ensuring end-to-end delivery without loss of any data.
+ - TCP guarantees the integrity of the data being communicated over a network.
+   Before it transmits data, TCP establishes a connection between a source and its destination, 
+   which remains active until communication begins. It then breaks large amounts of data into smaller packets,
+   while ensuring end-to-end delivery without loss of any data.
         
 ```
 -->
@@ -25,16 +22,13 @@ Only IPv4 addresses are used in NetPractice.
 ### What are TCP/IP addresses and how do they work?
 ```     
   . TCP/IP, in full Transmission Control Protocol/Internet Protocol,
-    standard Internet communications protocols that allow digital 
-    computers to communicate over long distances. 
+    standard Internet communications protocols that allow digital computers to communicate over long distances. 
 ```
 ### What is Transmission Control Protocol
 ```
   . TCP guarantees the integrity of the data being communicated over a network.
-    Before it transmits data,
-    TCP establishes a connection between a source and its destination,
-    which remains active until communication begins.
-    It then breaks large amounts of data into smaller packets,
+    Before it transmits data, TCP establishes a connection between a source and its destination,
+    which remains active until communication begins. It then breaks large amounts of data into smaller packets,
     while ensuring end-to-end delivery without loss of any data.
     
   . TCP (Transmission Control Protocol) is a protocol that allows communication between computers 
@@ -56,15 +50,16 @@ Only IPv4 addresses are used in NetPractice.
     A public IP address is usually used to access the Internet. With a public IP address,
     you can access your computer or other electronic devices remotely.
 ```
-### Private IP ranges
-`10.0.0.0 – 10.255.255.255`<br>
-`172.16.0.0 – 172.31.255.255`<br>
-`192.168.0.0 – 192.168.255.255`<br>
-`127.0.0.0 – 127.255.255.255`
 ### What is a Private IP Address?
 ```
 .
 ```
+### Private IP ranges
+`10.0.0.0    – 10.255.255.255`<br>
+`172.16.0.0  – 172.31.255.255`<br>
+`192.168.0.0 – 192.168.255.255`<br>
+`127.0.0.0   – 127.255.255.255`
+
 <!--
 ### This interface should open in your web browser; <br />
 <img width="800" alt="web" src="https://user-images.githubusercontent.com/97880185/211425347-0cd650b3-ed4e-4a09-9e16-0b27d0b73cbf.png">
