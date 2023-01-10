@@ -106,7 +106,10 @@ DECIMAL | 0 - 127
 `172.16.0.0  – 172.31.255.255`<br>
 `192.168.0.0 – 192.168.255.255`<br>
 `127.0.0.0   – 127.255.255.255`
+### What is IP masking
+```
 
+```
 
 <!--
 ### This interface should open in your web browser; <br />
