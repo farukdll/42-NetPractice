@@ -18,7 +18,7 @@ Only IPv4 addresses are used in NetPractice.
 ```
 -->
 <img width="800" alt="Preamble" src="https://user-images.githubusercontent.com/97880185/211422027-874250ac-aac1-4100-a5ae-dab275c34c31.png"> <br />
-
+<br />
 ### What are TCP/IP addresses and how do they work?
 ```     
   . TCP/IP, in full Transmission Control Protocol/Internet Protocol,
