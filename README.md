@@ -146,12 +146,23 @@ DECIMAL | 0 - 127
   and cannot talk directly to a network outside of its own.
 ```
 
-### Key
+### Key example
 </br>
 <p align="center">
   <img width="389" alt="key" src="https://user-images.githubusercontent.com/97880185/211623839-3220c7ec-70da-49c7-a7c8-4ff54d877b6d.png">
 </p>
 
+### Router
+```
+- Just as the switch connects multiple devices on a single network, 
+  the router connects multiple networks together. 
+  The router has an interface for each network it connects to.
+
+- Since the router separates different networks, 
+  the range of possible IP addresses on one of its interfaces must 
+  not overlap with the range of its other interfaces. An overlap in the 
+  IP address range would imply that the interfaces are on the same network.
+```
 <!--
 ### This interface should open in your web browser; <br />
 <img width="800" alt="web" src="https://user-images.githubusercontent.com/97880185/211425347-0cd650b3-ed4e-4a09-9e16-0b27d0b73cbf.png">
