@@ -166,7 +166,7 @@ DECIMAL | 0 - 127
 ### Router example
 </br>
 <p align="center">
-  <img width="380" alt="Router" src="https://user-images.githubusercontent.com/97880185/211625628-45dff831-f562-4934-b6ab-701dde3d5263.png">
+  <img width="389" alt="Router" src="https://user-images.githubusercontent.com/97880185/211625628-45dff831-f562-4934-b6ab-701dde3d5263.png">
 </p>
 <!--
 ### This interface should open in your web browser; <br />
