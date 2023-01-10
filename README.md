@@ -168,8 +168,64 @@ DECIMAL | 0 - 127
 <p align="center">
   <img width="400" alt="Router" src="https://user-images.githubusercontent.com/97880185/211625628-45dff831-f562-4934-b6ab-701dde3d5263.png">
 </p>
-
+<!--
 ### 10 questions in total
+<details>
+  <summary>Level 1</summary>
+  <br>
+  <img src="https://github.com/LPaube/42_NetPractice/blob/main/img/level9_paint.png?raw=true" alt="level9">
+  <br>
+  <br>
+
+
+  <br>
+  <br>
+
+  <br>
+  <br>
+  
+  <br>
+  <br>
+
+  <br>
+  <br>
+
+
+  <div align="right">
+  <b><a href="#top">↥ back to top</a></b>
+</div>
+</br>
+
+</details>
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 ### This interface should open in your web browser; <br />
 <img width="800" alt="web" src="https://user-images.githubusercontent.com/97880185/211425347-0cd650b3-ed4e-4a09-9e16-0b27d0b73cbf.png">
