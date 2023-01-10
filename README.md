@@ -169,26 +169,26 @@ BINARY  | 0000000 - 1111111
   
  Special subnet masks for class B addresses
   
- Number of subnets    Number of bits       Subnet Mask        Number of hosts in each Subnet
-  0                      	1                   none                    none
-  2                      	2                255.255.192.0             16,382
-  6                      	3                255. 255.224.0             8,190
-  14                    	4                255. 255.240.0             4,094
-  30                    	5                255. 255.248.0             2,046
-  62                    	6                255. 255.252.0             1,022
-  126                    	7                255. 255.254.0               510
-  254                  	  8                255. 255.255.0               254
+ Number of subnets    Number of bits        Subnet Mask      Number of hosts in each Subnet
+  0                       1                     none                     none
+  2                       2                 255.255.192.0               16,382
+  6                       3                 255.255.224.0                8,190
+  14                      4                 255.255.240.0                4,094
+  30                      5                 255.255.248.0                2,046
+  62                      6                 255.255.252.0                1,022
+  126                     7                 255.255.254.0                  510
+  254                     8                 255.255.255.0                  254
   
   
   Special subnet masks for class C addresses
   
-  Number of subnets    Number of bits       Subnet Mask         Number of hosts in each Subnet
-   0                     	1                   none                       none      
-   1-2                  	2                255. 255. 255.192               62
-   3-6                  	3                255. 255. 255.224               30
-   7-14                	  4                255. 255. 255.240               14
-   15-30              	  5                255. 255. 255.248                6
-   31-62              	  6                255. 255. 255.252                2
+  Number of subnets   Number of bits        Subnet Mask      Number of hosts in each Subnet
+   0                      1                     none                      none      
+   1-2                    2               255.255.255.192                   62
+   3-6                    3               255.255.255.224                   30
+   7-14                   4               255.255.255.240                   14
+   15-30                  5               255.255.255.248                    6
+   31-62                  6               255.255.255.252                    2
 
 ```
 ### Masking-example
