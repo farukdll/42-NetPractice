@@ -15,6 +15,7 @@ Only IPv4 addresses are used in NetPractice.
   <img width="150" alt="Switch" src="https://user-images.githubusercontent.com/97880185/211656464-3daa6f82-578b-4c6b-8d54-ff28b93e670f.png">
   <img width="150" alt="Internet" src="https://user-images.githubusercontent.com/97880185/211656370-91ad141f-d7c5-4877-8136-0f7f6237c646.png">
 </p>
+<br />
 
 
 ### What are TCP/IP addresses and how do they work?
