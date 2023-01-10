@@ -71,21 +71,22 @@ Only IPv4 addresses are used in NetPractice.
 . 3 (binary: 00000011)
 . ...
 . ...
-  
-  BINARY  | 0000000 - 1111111
-  DECIMAL | 0 - 127
-
-. ...
 . ...
 . 252 (binary: 11111100)
 . 253 (binary: 11111101)
 . 254 (binary: 11111110)
 . 255 (binary: 11111111)
 
-- 
+BINARY  | 0000000 - 1111111
+DECIMAL | 0 - 127
 
+- For example
+  
+  IP address | 104.198.241.125
+  IP address | 01101000.11000110.11110001.01111101
 
-
+- Public IP addresses cannot take values from private IP addresses, 
+  they only take values different from private IP address values.
 ```
 ### What is a Private IP Address?
 ```
