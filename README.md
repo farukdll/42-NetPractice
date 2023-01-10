@@ -80,7 +80,15 @@ Only IPv4 addresses are used in NetPractice.
 - 
 
 
-
+- `255 (binary: 11111111)`
+- `254 (binary: 11111110)`
+- `252 (binary: 11111100)`
+- `248 (binary: 11111000)`
+- `240 (binary: 11110000)`
+- `224 (binary: 11100000)`
+- `192 (binary: 11000000)`
+- `128 (binary: 10000000)`
+- `0 (binary: 00000000)`
 
 
 
