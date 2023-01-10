@@ -3,6 +3,8 @@ NetPractice is a general practical exercise to let you discover networking.
 
 The networks you will be working with in this project are not real networks. They will be accessible via a training interface that you open in your web browser.
 
+Only IPv4 addresses are used in NetPractice.
+
 ### What are TCP/IP addresses and how do they work?
 ```     
   . TCP/IP, in full Transmission Control Protocol/Internet Protocol,
