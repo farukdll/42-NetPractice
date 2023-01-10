@@ -3,17 +3,15 @@ NetPractice is a general practical exercise to let you discover networking.
 
 The networks you will be working with in this project are not real networks. They will be accessible via a training interface that you open in your web browser.
 
-### How do TCP/IP addresses work?
-```
-  - How do TCP/IP addresses work?
+### What are TCP/IP addresses and how do they work?
+```     
+  . TCP/IP, in full Transmission Control Protocol/Internet Protocol,
+    standard Internet communications protocols that allow digital computers to communicate over long distances.
         
-      . TCP/IP, in full Transmission Control Protocol/Internet Protocol,
-        standard Internet communications protocols that allow digital computers to communicate over long distances.
-        
-      . TCP guarantees the integrity of the data being communicated over a network. Before it transmits data,
-        TCP establishes a connection between a source and its destination,
-        which remains active until communication begins. It then breaks large amounts of data into smaller packets,
-        while ensuring end-to-end delivery without loss of any data.
+  . TCP guarantees the integrity of the data being communicated over a network. Before it transmits data,
+    TCP establishes a connection between a source and its destination,
+    which remains active until communication begins. It then breaks large amounts of data into smaller packets,
+    while ensuring end-to-end delivery without loss of any data.
         
 ```
 
