@@ -146,7 +146,7 @@ DECIMAL | 0 - 127
   and cannot talk directly to a network outside of its own.
 ```
 
-### Key example
+### Key-example
 </br>
 <p align="center">
   <img width="389" alt="key" src="https://user-images.githubusercontent.com/97880185/211623839-3220c7ec-70da-49c7-a7c8-4ff54d877b6d.png">
@@ -220,7 +220,7 @@ DECIMAL | 0 - 127
   <img src="https://github.com/"
   <br>
   <br>
-  In this level we have our first encounter with a [Key example](https://github.com/farukdll/42-NetPractice#Key example).<br>
+  In this level we have our first encounter with a [Key example](https://github.com/farukdll/42-NetPractice#Key-example).<br>
   Since we can't manipulate the mask of C, `255.255.255.128` will be the mask of the whole network.<br>
   A has a fix IP, so the whole networks range will be `104.198.187.1 - 104.198.187.126`.
   
