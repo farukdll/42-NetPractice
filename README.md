@@ -151,7 +151,7 @@ DECIMAL | 0 - 127
 ### Masking example
 </br>
 <p align="center">
-  <img width="312" alt="key" src="https://user-images.githubusercontent.com/97880185/211623839-3220c7ec-70da-49c7-a7c8-4ff54d877b6d.png">
+  <img width="389" alt="key" src="https://user-images.githubusercontent.com/97880185/211623839-3220c7ec-70da-49c7-a7c8-4ff54d877b6d.png">
 </p>
 </br>
 
