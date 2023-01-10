@@ -140,6 +140,21 @@ DECIMAL | 0 - 127
 </p>
 </br>
 
+### Connection switch
+```
+- A switch connects multiple devices together in a single network. 
+  Unlike a router, the switch does not have any interfaces since it only 
+  distributes packets to its local network, 
+  and cannot talk directly to a network outside of its own.
+```
+
+### Masking example
+</br>
+<p align="center">
+  <img width="312" alt="key" src="https://user-images.githubusercontent.com/97880185/211623839-3220c7ec-70da-49c7-a7c8-4ff54d877b6d.png">
+</p>
+</br>
+
 <!--
 ### This interface should open in your web browser; <br />
 <img width="800" alt="web" src="https://user-images.githubusercontent.com/97880185/211425347-0cd650b3-ed4e-4a09-9e16-0b27d0b73cbf.png">
