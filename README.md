@@ -7,7 +7,7 @@ The networks you will be working with in this project are not real networks. The
 ```
   - How do TCP/IP addresses work?
         
-        TCP/IP, in full Transmission Control Protocol/Internet Protocol,
+      - TCP/IP, in full Transmission Control Protocol/Internet Protocol,
         standard Internet communications protocols that allow digital computers to communicate over long distances.
 ```
 
