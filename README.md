@@ -4,23 +4,16 @@ NetPractice is a general practical exercise to let you discover networking.
 The networks you will be working with in this project are not real networks. They will be accessible via a training interface that you open in your web browser.
 
 Only IPv4 addresses are used in NetPractice.
-<!--
-### What are TCP/IP addresses and how do they work?
-```     
-- TCP/IP, in full Transmission Control Protocol/Internet Protocol,
-  standard Internet communications protocols that allow digital computers 
-  to communicate over long distances.
-        
-- TCP guarantees the integrity of the data being communicated over a network.
-  Before it transmits data, TCP establishes a connection between a source and 
-  its destination, which remains active until communication begins. 
-  It then breaks large amounts of data into smaller packets,
-  while ensuring end-to-end delivery without loss of any data.
-        
-```
--->
+
 <img width="1000" alt="Preamble" src="https://user-images.githubusercontent.com/97880185/211422027-874250ac-aac1-4100-a5ae-dab275c34c31.png"> <br />
 <br />
+<img width="100" alt="Preamble" src="https://user-images.githubusercontent.com/97880185/211656370-91ad141f-d7c5-4877-8136-0f7f6237c646.png">
+<img width="100" alt="Preamble" src="https://user-images.githubusercontent.com/97880185/211656437-609c2afe-8673-4b69-b960-9a8247a855c3.png">
+<img width="100" alt="Preamble" src="https://user-images.githubusercontent.com/97880185/211656451-11235c84-f555-427b-916e-93a428a816b9.png">
+<img width="100" alt="Preamble" src="https://user-images.githubusercontent.com/97880185/211656464-3daa6f82-578b-4c6b-8d54-ff28b93e670f.png">
+
+
+
 ### What are TCP/IP addresses and how do they work?
 ```     
 - TCP/IP, in full Transmission Control Protocol/Internet Protocol,
