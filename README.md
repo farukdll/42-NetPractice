@@ -168,15 +168,18 @@ DECIMAL | 0 - 127
 <p align="center">
   <img width="400" alt="Router" src="https://user-images.githubusercontent.com/97880185/211625628-45dff831-f562-4934-b6ab-701dde3d5263.png">
 </p>
-<!--
+
 ### 10 questions in total
 <details>
   <summary>Level 1</summary>
   <br>
-  <img src="https://github.com/LPaube/42_NetPractice/blob/main/img/level9_paint.png?raw=true" alt="level9">
+  <img src="https://github.com/
   <br>
   <br>
-
+ Here we have two separate networks, each consisting of two computers.<br>
+  In order to make it work, the two computers need to be part of the same network.<br>
+  Because the mask of A and B is `255.255.255.0` the possible IP-adresses of A1 are <br>`104.99.23.1 - 104.99.23.254`.<br>
+  For C and D the mask is `255.255.0.0`, so the usable IP's are `211.191.0.1 - 211.191.255.254`
 
   <br>
   <br>
@@ -197,9 +200,291 @@ DECIMAL | 0 - 127
 </br>
 
 </details>
--->
+
+-------
+
+<details>
+<summary>Level 1</summary>
+<br>
+<img src="https://github.com
+<br>
+<br>
+```
+- Here we have two separate networks, each consisting of two computers.
+  In order to make it work, the two computers need to be part of the same network.
+  Because the mask of A and B is `255.255.255.0` the possible 
+  IP-adresses of A1 are <br>`104.99.23.1 - 104.99.23.254`.
+  For C and D the mask is `255.255.0.0`, 
+  so the usable IP's are `211.191.0.1 - 211.191.255.254`
+```
+  <br>
+  <br>
+
+  <br>
+  <br>
+  
+  <br>
+  <br>
+
+  <br>
+  <br>
 
 
+  <div align="right">
+  <b><a href="#top">↥ back to top</a></b>
+</div>
+</br>
+
+</details>
+                   
+-----
+
+<details>
+  <summary>Level 1</summary>
+  <br>
+  <img src="https://github.com
+  <br>
+  <br>
+ Here we have two separate networks, each consisting of two computers.<br>
+  In order to make it work, the two computers need to be part of the same network.<br>
+  Because the mask of A and B is `255.255.255.0` the possible IP-adresses of A1 are <br>`104.99.23.1 - 104.99.23.254`.<br>
+  For C and D the mask is `255.255.0.0`, so the usable IP's are `211.191.0.1 - 211.191.255.254`
+
+  <br>
+  <br>
+
+  <br>
+  <br>
+  
+  <br>
+  <br>
+
+  <br>
+  <br>
+
+
+  <div align="right">
+  <b><a href="#top">↥ back to top</a></b>
+</div>
+</br>
+
+</details>
+
+<details>
+  <summary>Level 1</summary>
+  <br>
+  <img src="https://github.com
+  <br>
+  <br>
+ Here we have two separate networks, each consisting of two computers.<br>
+  In order to make it work, the two computers need to be part of the same network.<br>
+  Because the mask of A and B is `255.255.255.0` the possible IP-adresses of A1 are <br>`104.99.23.1 - 104.99.23.254`.<br>
+  For C and D the mask is `255.255.0.0`, so the usable IP's are `211.191.0.1 - 211.191.255.254`
+
+  <br>
+  <br>
+
+  <br>
+  <br>
+  
+  <br>
+  <br>
+
+  <br>
+  <br>
+
+
+  <div align="right">
+  <b><a href="#top">↥ back to top</a></b>
+</div>
+</br>
+
+</details>
+
+<details>
+  <summary>Level 1</summary>
+  <br>
+  <img src="https://github.com
+  <br>
+  <br>
+ Here we have two separate networks, each consisting of two computers.<br>
+  In order to make it work, the two computers need to be part of the same network.<br>
+  Because the mask of A and B is `255.255.255.0` the possible IP-adresses of A1 are <br>`104.99.23.1 - 104.99.23.254`.<br>
+  For C and D the mask is `255.255.0.0`, so the usable IP's are `211.191.0.1 - 211.191.255.254`
+
+  <br>
+  <br>
+
+  <br>
+  <br>
+  
+  <br>
+  <br>
+
+  <br>
+  <br>
+
+
+  <div align="right">
+  <b><a href="#top">↥ back to top</a></b>
+</div>
+</br>
+
+</details>
+
+<details>
+  <summary>Level 1</summary>
+  <br>
+  <img src="https://github.com
+  <br>
+  <br>
+ Here we have two separate networks, each consisting of two computers.<br>
+  In order to make it work, the two computers need to be part of the same network.<br>
+  Because the mask of A and B is `255.255.255.0` the possible IP-adresses of A1 are <br>`104.99.23.1 - 104.99.23.254`.<br>
+  For C and D the mask is `255.255.0.0`, so the usable IP's are `211.191.0.1 - 211.191.255.254`
+
+  <br>
+  <br>
+
+  <br>
+  <br>
+  
+  <br>
+  <br>
+
+  <br>
+  <br>
+
+
+  <div align="right">
+  <b><a href="#top">↥ back to top</a></b>
+</div>
+</br>
+
+</details>
+
+<details>
+  <summary>Level 1</summary>
+  <br>
+  <img src="https://github.com
+  <br>
+  <br>
+ Here we have two separate networks, each consisting of two computers.<br>
+  In order to make it work, the two computers need to be part of the same network.<br>
+  Because the mask of A and B is `255.255.255.0` the possible IP-adresses of A1 are <br>`104.99.23.1 - 104.99.23.254`.<br>
+  For C and D the mask is `255.255.0.0`, so the usable IP's are `211.191.0.1 - 211.191.255.254`
+
+  <br>
+  <br>
+
+  <br>
+  <br>
+  
+  <br>
+  <br>
+
+  <br>
+  <br>
+
+
+  <div align="right">
+  <b><a href="#top">↥ back to top</a></b>
+</div>
+</br>
+
+</details>
+
+<details>
+  <summary>Level 1</summary>
+  <br>
+  <img src="https://github.com
+  <br>
+  <br>
+ Here we have two separate networks, each consisting of two computers.<br>
+  In order to make it work, the two computers need to be part of the same network.<br>
+  Because the mask of A and B is `255.255.255.0` the possible IP-adresses of A1 are <br>`104.99.23.1 - 104.99.23.254`.<br>
+  For C and D the mask is `255.255.0.0`, so the usable IP's are `211.191.0.1 - 211.191.255.254`
+
+  <br>
+  <br>
+
+  <br>
+  <br>
+  
+  <br>
+  <br>
+
+  <br>
+  <br>
+
+
+  <div align="right">
+  <b><a href="#top">↥ back to top</a></b>
+</div>
+</br>
+
+</details>
+<details>
+  <summary>Level 1</summary>
+  <br>
+  <img src="https://github.com
+  <br>
+  <br>
+ Here we have two separate networks, each consisting of two computers.<br>
+  In order to make it work, the two computers need to be part of the same network.<br>
+  Because the mask of A and B is `255.255.255.0` the possible IP-adresses of A1 are <br>`104.99.23.1 - 104.99.23.254`.<br>
+  For C and D the mask is `255.255.0.0`, so the usable IP's are `211.191.0.1 - 211.191.255.254`
+
+  <br>
+  <br>
+
+  <br>
+  <br>
+  
+  <br>
+  <br>
+
+  <br>
+  <br>
+
+
+  <div align="right">
+  <b><a href="#top">↥ back to top</a></b>
+</div>
+</br>
+
+</details>
+
+<details>
+  <summary>Level 1</summary>
+  <br>
+  <img src="https://github.com
+  <br>
+  <br>
+ Here we have two separate networks, each consisting of two computers.<br>
+  In order to make it work, the two computers need to be part of the same network.<br>
+  Because the mask of A and B is `255.255.255.0` the possible IP-adresses of A1 are <br>`104.99.23.1 - 104.99.23.254`.<br>
+  For C and D the mask is `255.255.0.0`, so the usable IP's are `211.191.0.1 - 211.191.255.254`
+
+  <br>
+  <br>
+
+  <br>
+  <br>
+  
+  <br>
+  <br>
+
+  <br>
+  <br>
+
+
+  <div align="right">
+  <b><a href="#top">↥ back to top</a></b>
+</div>
+</br>
+
+</details>
 
 
 
