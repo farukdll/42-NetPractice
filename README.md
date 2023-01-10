@@ -22,17 +22,20 @@ Only IPv4 addresses are used in NetPractice.
 ### What are TCP/IP addresses and how do they work?
 ```     
   . TCP/IP, in full Transmission Control Protocol/Internet Protocol,
-    standard Internet communications protocols that allow digital computers to communicate over long distances.
-        
+    standard Internet communications protocols that allow digital computers to communicate over long distances. 
+```
+### What is Transmission Control Protocol
+```
   . TCP guarantees the integrity of the data being communicated over a network. Before it transmits data,
     TCP establishes a connection between a source and its destination,
     which remains active until communication begins. It then breaks large amounts of data into smaller packets,
     while ensuring end-to-end delivery without loss of any data.
-        
-```
-### What is Transmission Control Protocol
-```
-
+    
+  . TCP (Transmission Control Protocol) is a protocol that allows communication between computers 
+      to be carried out in small packets and lossless.
+    In fact, the most important feature of the TCP (Transmission Control Protocol) protocol is that it
+      performs the authentication and execution of the data when sending or receiving data from the other party.
+    The TCP protocol was written to hide the losses that occur in advanced computer networks.
 ```
 ### What is IP address
 ```
