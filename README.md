@@ -7,7 +7,7 @@ Only IPv4 addresses are used in NetPractice.
 
 </br>
 <p align="center">
-  <img width="600" alt="ETHERNET CABLE" src="https://user-images.githubusercontent.com/97880185/211422027-874250ac-aac1-4100-a5ae-dab275c34c31.png">
+  <img width="750" alt="ETHERNET CABLE" src="https://user-images.githubusercontent.com/97880185/211422027-874250ac-aac1-4100-a5ae-dab275c34c31.png">
 </p>
 <br />
 
