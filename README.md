@@ -173,10 +173,10 @@ DECIMAL | 0 - 127
 <details>
   <summary>Level 1</summary>
   <br>
-  <img src="https://github.com/
+  <img src="https://github.com/"
   <br>
   <br>
- Here we have two separate networks, each consisting of two computers.<br>
+  Here we have two separate networks, each consisting of two computers.<br>
   In order to make it work, the two computers need to be part of the same network.<br>
   Because the mask of A and B is `255.255.255.0` the possible IP-adresses of A1 are <br>`104.99.23.1 - 104.99.23.254`.<br>
   For C and D the mask is `255.255.0.0`, so the usable IP's are `211.191.0.1 - 211.191.255.254`
@@ -196,8 +196,8 @@ DECIMAL | 0 - 127
 
   <div align="right">
   <b><a href="#top">↥ back to top</a></b>
-</div>
-</br>
+  </div>
+  </br>
 
 </details>
 
@@ -206,7 +206,7 @@ DECIMAL | 0 - 127
 <details>
 <summary>Level 1</summary>
 <br>
-<img src="https://github.com
+<img src="https://github.com"
 <br>
 <br>
 - Here we have two separate networks, each consisting of two computers.
