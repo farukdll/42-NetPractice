@@ -9,11 +9,7 @@ Only IPv4 addresses are used in NetPractice.
 <p align="center">
   <img width="800" alt="ETHERNET CABLE" src="https://user-images.githubusercontent.com/97880185/211422027-874250ac-aac1-4100-a5ae-dab275c34c31.png">
 </p>
-<!--
-<img width="1000" alt="Preamble" src="https://user-images.githubusercontent.com/97880185/211422027-874250ac-aac1-4100-a5ae-dab275c34c31.png"> <br />
-<br />
-<br />
--->
+
 <p align="center">
   <img width="150" alt="Host" src="https://user-images.githubusercontent.com/97880185/211656437-609c2afe-8673-4b69-b960-9a8247a855c3.png">
   <img width="150" alt="Router" src="https://user-images.githubusercontent.com/97880185/211656451-11235c84-f555-427b-916e-93a428a816b9.png">
