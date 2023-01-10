@@ -65,30 +65,19 @@ Only IPv4 addresses are used in NetPractice.
 - 1 IP address can have up to 255 values.
 - Returns to 0 after 255.
 
-`0 (binary: 00000000)`<br>
-`1 (binary: 00000001)`<br>
-`2 (binary: 00000010)`<br>
-`3 (binary: 00000011)`<br>
-`.
-`.
-`.
-`252 (binary: 11111100)`<br>
-`253 (binary: 11111101)`<br>
-`254 (binary: 11111110)`<br>
-`255 (binary: 11111111)
+. 0 (binary: 00000000)
+. 1 (binary: 00000001)
+. 2 (binary: 00000010)
+. 3 (binary: 00000011)
+. .
+. .
+. .
+. 252 (binary: 11111100)`<br>
+. 253 (binary: 11111101)`<br>
+. 254 (binary: 11111110)`<br>
+. 255 (binary: 11111111)
 
 - 
-
-
-- `255 (binary: 11111111)`
-- `254 (binary: 11111110)`
-- `252 (binary: 11111100)`
-- `248 (binary: 11111000)`
-- `240 (binary: 11110000)`
-- `224 (binary: 11100000)`
-- `192 (binary: 11000000)`
-- `128 (binary: 10000000)`
-- `0 (binary: 00000000)`
 
 
 
