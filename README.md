@@ -205,7 +205,7 @@ BINARY  | 0000000 - 1111111
   and cannot talk directly to a network outside of its own.
 ```
 
-### Key(Switch)-example
+### Switch-example
 </br>
 <p align="center">
   <img width="389" alt="key" src="https://user-images.githubusercontent.com/97880185/211623839-3220c7ec-70da-49c7-a7c8-4ff54d877b6d.png">
