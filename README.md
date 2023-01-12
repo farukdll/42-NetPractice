@@ -33,7 +33,7 @@ Only IPv4 addresses are used in NetPractice.
   TCP establishes a connection between a source and its destination,
   which remains active until communication begins. 
   It then breaks large amounts of data into smaller packets,
-  while ensuring end-to-end delivery without loss of any data.
+  while ensuring end-to-end deliver without loss of any data.
     
 - TCP (Transmission Control Protocol) is a protocol that allows communication 
   between computers to be carried out in small packets and lossless. In fact,
