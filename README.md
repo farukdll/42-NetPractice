@@ -585,8 +585,6 @@ Our fixed IP is part of `63.239.64.0 - 63.239.127.255`, so the network-address i
 
 
 
-
-
 <!--
 ### This interface should open in your web browser; <br />
 <img width="800" alt="web" src="https://user-images.githubusercontent.com/97880185/211425347-0cd650b3-ed4e-4a09-9e16-0b27d0b73cbf.png">
