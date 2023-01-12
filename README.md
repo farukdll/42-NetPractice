@@ -30,10 +30,10 @@ Only IPv4 addresses are used in NetPractice.
 ```
 - TCP guarantees the integrity of the data being communicated over a network.
   Before it transmits data, 
-  TCP establishes a connection between a source and its destination,
-  which remains active until communication begins. 
-  It then breaks large amounts of data into smaller packets,
-  while ensuring end-to-end delivery without loss of any data.
+  TCP establishes a connection between source and destination,
+  remains active until communication starts. 
+  It then splits the large amount of data into smaller packets,
+  It ensures end-to-end delivery without any data loss.
     
 - TCP (Transmission Control Protocol) is a protocol that allows communication 
   between computers to be carried out in small packets and lossless. In fact,
